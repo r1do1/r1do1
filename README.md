@@ -10,7 +10,7 @@ A public overview of applications I'm currently working on.
 **Description:** Mobile payments platform  
 **Tech:** Flutter, Spring Boot  
 **Access:** 🔒 Private  
-🔒 Repository: https://github.com/your-org/app-one
+🔒 Repository: https://github.com/r1do1/summ3r
 ➡ Request access via GitHub Issues
 
 ---
