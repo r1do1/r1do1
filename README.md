@@ -1,17 +1,24 @@
-## Hi there 👋
+<!--## Hi there 👋-->
 
 # 🚀 Applications Catalog
 
 Overview of applications I'm currently working on.
+➡ DM me at my Linkedin to request access
+---
+
+## 📱 Riyooh
+**Description:** TBD  
+**Tech:** Flutter, Serverpod, PostgreSQL   
+**Access:** 🔒 Private  
+**Repository:** https://github.com/r1do1/riyooh  
 
 ---
 
 ## 📱 Summ3r
-**Description:** Mobile payments platform  
-**Tech:** Flutter, Spring Boot  
+**Description:** TBD  
+**Tech:** Flutter, Serverpod, PostgreSQL
 **Access:** 🔒 Private  
 **Repository:** https://github.com/r1do1/summ3r  
-➡ Request access via GitHub Issues
 
 ---
 
