@@ -7,11 +7,11 @@ Overview of applications I'm currently working on.
 
 ---
 
-## 📱 Riyooh
+## 📱 6a6ai
 **Description:** To Be Describe  
 **Tech:** Flutter, Serverpod, PostgreSQL   
 **Access:** 🔒 Private  
-**Repository:** https://github.com/r1do1/riyooh  
+**Repository:** https://github.com/r1do1/6a6ai   
 
 ---
 
