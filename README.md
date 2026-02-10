@@ -2,12 +2,13 @@
 
 # 🚀 Applications Catalog
 
-Overview of applications I'm currently working on.
+Overview of applications I'm currently working on.   
 ➡ DM me at my Linkedin to request access
+
 ---
 
 ## 📱 Riyooh
-**Description:** TBD  
+**Description:** To Be Describe  
 **Tech:** Flutter, Serverpod, PostgreSQL   
 **Access:** 🔒 Private  
 **Repository:** https://github.com/r1do1/riyooh  
@@ -15,8 +16,8 @@ Overview of applications I'm currently working on.
 ---
 
 ## 📱 Summ3r
-**Description:** TBD  
-**Tech:** Flutter, Serverpod, PostgreSQL
+**Description:** To Be Describe  
+**Tech:** Flutter, Serverpod, PostgreSQL  
 **Access:** 🔒 Private  
 **Repository:** https://github.com/r1do1/summ3r  
 
