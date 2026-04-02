@@ -3,7 +3,7 @@
 # 🚀 Applications Catalog
 
 Overview of applications I'm currently working on.   
-➡ DM me at my Linkedin to request access   
+➡ DM me at my Linkedin to reach me and to request access   
 https://www.linkedin.com/in/izatulreduan/   
 
 ---
