@@ -4,6 +4,7 @@
 
 Overview of applications I'm currently working on.   
 ➡ DM me at my Linkedin to request access
+https://www.linkedin.com/in/izatulreduan/   
 
 ---
 
