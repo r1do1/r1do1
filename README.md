@@ -29,7 +29,7 @@ https://www.linkedin.com/in/izatulreduan/
 ---
 
 ## 📱 o6or
-**Description:** To Be Describe  
+**Description:** Generative Web & Agents     
 **Tech:** Flutter, Serverpod, PostgreSQL   
 **Access:** 🔒 Private  
 **Repository:** https://github.com/r1do1/o6or   
