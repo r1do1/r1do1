@@ -8,11 +8,11 @@ https://www.linkedin.com/in/izatulreduan/
 
 ---
 
-## 📱 6a6ai
+## 📱 o6or
 **Description:** To Be Describe  
 **Tech:** Flutter, Serverpod, PostgreSQL   
 **Access:** 🔒 Private  
-**Repository:** https://github.com/r1do1/6a6ai   
+**Repository:** https://github.com/r1do1/o6or   
 
 ---
 
