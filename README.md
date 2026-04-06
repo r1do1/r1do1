@@ -1,30 +1,27 @@
 <!--## Hi there 👋-->
 
-# 🚀 Applications & Ideas Catalog
+# 🚀 Applications & Ideas
 
 This repository contains example and production applications where I use all the skills collected during my 20+ years programming & managing software projects across multi functional teams   
 I would like to highlight my last 3+ years doing AI driven application development, which motivated me to move from old to new, updated, better engineered production technology languages & frameworks   
 
-**Old tech skillsets:**
+**Old tech skillsets:**   
 **Languages:**   
 C & C++, Java, Python, HTML, CSS, JavaScript   
 **Frameworks:**   
-Spring, Quarkus, ReactJS
+Spring, Quarkus, ReactJS   
 
-
-New tech skillsets 
-Languages
-C & C++ updates, Dart, Rust
-
-Frameworks
+**New tech skillsets:**   
+**Languages:**   
+C & C++ updates, Dart, Rust   
+**Frameworks:**   
 Flutter, Serverpod, Axum, Tokio
 
-
-AI
+**AI:**
 PyTorch, LlamaIndex, Foundation Models (Gemini, Gemma, Llama, GPT5, Opus, Nova, Olmo, Moshi, Stable Diffusions, Flux, Smolagents)
 
-Data
-PostgreSQL, SurrealDB   
+**Data:**
+PostgreSQL, SurrealDB      
 
 ➡ DM me at my Linkedin to reach me and to request access   
 https://www.linkedin.com/in/izatulreduan/   
