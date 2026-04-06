@@ -1,8 +1,8 @@
 <!--## Hi there 👋-->
 
-# 🚀 Applications Catalog
+# 🚀 Applications & Ideas Catalog
 
-Overview of applications I'm currently working on.   
+Overview of Projects I'm working on.   
 ➡ DM me at my Linkedin to reach me and to request access   
 https://www.linkedin.com/in/izatulreduan/   
 
