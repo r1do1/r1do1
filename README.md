@@ -2,7 +2,8 @@
 
 # 🚀 Applications & Ideas
 
-This repository contains example and production applications where I use all the skills collected during my 20+ years programming & managing software projects across multi functional teams   
+This repository contains example and production applications where I use all the skills collected during my 20+ years programming & managing software projects across multi functional teams.   
+
 I would like to highlight my last 3+ years doing AI driven application development, which motivated me to move from old to new, updated, better engineered production technology languages & frameworks   
 
 **Old tech skillsets:**   
