@@ -38,7 +38,7 @@ https://www.linkedin.com/in/izatulreduan/
 ---
 
 ## 📱 summ3r
-**Description:** Repository of ideas experiments and tests that I did before production implementations in other repositories   
+**Description:** Repository of ideas experiments & tests that I did before using them in production in other repositories   
 **Tech:** Flutter, Serverpod, PostgreSQL  
 **Access:** 🔒 Private  
 **Repository:** https://github.com/r1do1/summ3r  
