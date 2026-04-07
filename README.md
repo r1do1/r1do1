@@ -24,7 +24,7 @@ PyTorch, LlamaIndex, Foundation Models (Gemini, Gemma, Llama, GPT5, Opus, Nova, 
 **Data:**
 PostgreSQL, SurrealDB      
 
-➡ DM me at my Linkedin to reach me and to request access   
+➡ DM me at my Linkedin to reach me and to request access to my private repositories     
 https://www.linkedin.com/in/izatulreduan/   
 
 ---
