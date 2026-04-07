@@ -10,7 +10,7 @@ I would like to highlight my last 3+ years doing AI driven application developme
 **Languages:**   
 C & C++, Java, Python, HTML, CSS, JavaScript   
 **Frameworks:**   
-Spring Framework, Quarkus, ReactJS, Vaadin   
+Spring Framework, Vaadin, Quarkus, ReactJS      
 
 **New tech skillsets:**   
 **Languages:**   
@@ -31,7 +31,7 @@ https://www.linkedin.com/in/izatulreduan/
 
 ## 📱 o6or
 **Description:** Generative Web & Agents     
-**Tech:** Flutter, Serverpod, PostgreSQL   
+**Tech:** Flutter, Serverpod, Axum, Tokio, PostgreSQL, SurrealDB, AI      
 **Access:** 🔒 Private  
 **Repository:** https://github.com/r1do1/o6or   
 
@@ -39,7 +39,7 @@ https://www.linkedin.com/in/izatulreduan/
 
 ## 📱 summ3r
 **Description:** Repository of ideas experiments & tests that I did before using them in production in other repositories   
-**Tech:** Spring Framework, Vaadin, Flutter, Serverpod, PostgreSQL  
+**Tech:** Spring Framework, Vaadin, Flutter, Serverpod, PostgreSQL     
 **Access:** 🔒 Private  
 **Repository:** https://github.com/r1do1/summ3r  
 
