@@ -31,7 +31,7 @@ https://www.linkedin.com/in/izatulreduan/
 
 ## 📱 o6or
 **Description:** Generative Web & Agents     
-**Tech:** Spring Framework, Vaadin, PostgreSQL   
+**Tech:** Flutter, Serverpod, PostgreSQL   
 **Access:** 🔒 Private  
 **Repository:** https://github.com/r1do1/o6or   
 
@@ -39,7 +39,7 @@ https://www.linkedin.com/in/izatulreduan/
 
 ## 📱 summ3r
 **Description:** Repository of ideas experiments & tests that I did before using them in production in other repositories   
-**Tech:** Flutter, Serverpod, PostgreSQL  
+**Tech:** Spring Framework, Vaadin, Flutter, Serverpod, PostgreSQL  
 **Access:** 🔒 Private  
 **Repository:** https://github.com/r1do1/summ3r  
 
