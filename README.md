@@ -10,7 +10,7 @@ I would like to highlight my last 3+ years doing AI driven application developme
 **Languages:**   
 C & C++, Java, Python, HTML, CSS, JavaScript   
 **Frameworks:**   
-Spring, Quarkus, ReactJS   
+Spring Framework, Quarkus, ReactJS, Vaadin   
 
 **New tech skillsets:**   
 **Languages:**   
@@ -31,7 +31,7 @@ https://www.linkedin.com/in/izatulreduan/
 
 ## 📱 o6or
 **Description:** Generative Web & Agents     
-**Tech:** Flutter, Serverpod, PostgreSQL   
+**Tech:** Spring Framework, Vaadin, PostgreSQL   
 **Access:** 🔒 Private  
 **Repository:** https://github.com/r1do1/o6or   
 
