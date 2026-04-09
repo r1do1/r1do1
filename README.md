@@ -38,10 +38,13 @@ https://www.linkedin.com/in/izatulreduan/
 ---
 
 ## 📱 summ3r
-**Description:** Repository of ideas experiments & tests that I did before using them in production in other repositories   
-**Tech:** Spring Framework, Vaadin, Flutter, Serverpod, PostgreSQL     
+**Description:** Repository of ideas, experiments & tests that I did before using them in production in other repositories   
+**Tech:** Spring Framework, Vaadin, Flutter, Serverpod, PostgreSQL, RabbitMQ, Apache Kafka     
 **Access:** 🔒 Private  
-**Repository:** https://github.com/r1do1/summ3r  
+**Repository:** https://github.com/r1do1/summ3r   
+**Projects:**   
+*1. Slack Clone:*   
+*2. Traveldesk:*  
 
 ---
 
