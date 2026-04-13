@@ -22,7 +22,7 @@ Flutter, Serverpod, Axum, Tokio
 PyTorch, LlamaIndex, Foundation Models (Gemini, Gemma, Llama, GPT5, Opus, Nova, Olmo, Moshi, Stable Diffusions, Flux, Smolagents)
 
 **Data:**
-PostgreSQL, SurrealDB      
+PostgreSQL, SurrealDB, TigerBeetle      
 
 ➡ DM me at my Linkedin to reach me and to request access to my private repositories     
 https://www.linkedin.com/in/izatulreduan/   
@@ -31,7 +31,7 @@ https://www.linkedin.com/in/izatulreduan/
 
 ## 📱 o6or
 **Description:** Generative Web & Agents     
-**Tech:** Flutter, Serverpod, Axum, Tokio, PostgreSQL, SurrealDB, AI      
+**Tech:** Flutter, Serverpod, Axum, Tokio, PostgreSQL, SurrealDB, TigetBeetle, AI      
 **Access:** 🔒 Private  
 **Repository:** https://github.com/r1do1/o6or   
 **Projects:**   
