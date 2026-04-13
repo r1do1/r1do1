@@ -34,6 +34,8 @@ https://www.linkedin.com/in/izatulreduan/
 **Tech:** Flutter, Serverpod, Axum, Tokio, PostgreSQL, SurrealDB, AI      
 **Access:** 🔒 Private  
 **Repository:** https://github.com/r1do1/o6or   
+**Projects:**   
+*1. Rust based Quant App:*    
 
 ---
 
