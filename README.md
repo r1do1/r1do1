@@ -30,7 +30,7 @@ https://www.linkedin.com/in/izatulreduan/
 ---
 
 ## 📱 o6or
-**Description:** Generative Web & Agents     
+**Description:** Generative Web & Agents & Fintech     
 **Tech:** Flutter, Serverpod, Axum, Tokio, PostgreSQL, SurrealDB, TigetBeetle, AI      
 **Access:** 🔒 Private  
 **Repository:** https://github.com/r1do1/o6or   
