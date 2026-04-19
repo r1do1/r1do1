@@ -29,27 +29,20 @@ https://www.linkedin.com/in/izatulreduan/
 
 ---
 
-## 📱 o6or
-**Description:** Generative Web & Agents & Fintech     
+## 📱 summ3r
+**Description:** Generative Web & Agents & Fintech & ideas, experiments & tests that I did before using them in production in other repositories        
 **Tech:** Flutter, Serverpod, Axum, Tokio, PostgreSQL, SurrealDB, TigetBeetle, AI      
-**Access:** 🔒 Private  
-**Repository:** https://github.com/r1do1/o6or   
+**Access:** 🔒 Private   
+**Repository:** https://github.com/r1do1/summ3r      
 **Projects:**   
 *1. Rust based Quant App:*    
+**Tech:** Flutter, Serverpod, Axum, Tokio, PostgreSQL, SurrealDB, TigetBeetle, AI      
 
----
-
-## 📱 summ3r
-**Description:** Repository of ideas, experiments & tests that I did before using them in production in other repositories   
+*2. Slack Clone:*    
+*3. Traveldesk:*   
 **Tech:** Spring Framework, Vaadin, Flutter, Serverpod, PostgreSQL, RabbitMQ, Apache Kafka     
-**Access:** 🔒 Private  
-**Repository:** https://github.com/r1do1/summ3r   
-**Projects:**   
-*1. Slack Clone:*   
-*2. Traveldesk:*  
 
 ---
-
 <!--
 **r1do1/r1do1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
