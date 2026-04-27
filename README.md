@@ -31,7 +31,6 @@ https://www.linkedin.com/in/izatulreduan/
 
 ## 📱 summ3r
 **Description:** Generative Web & Agents & Fintech & ideas, experiments & tests that I did before using them in production in other repositories        
-**Tech:** Flutter, Serverpod, Axum, Tokio, PostgreSQL, SurrealDB, TigetBeetle, AI      
 **Access:** 🔒 Private   
 **Repository:** https://github.com/r1do1/summ3r      
 **Projects:**   
