@@ -22,7 +22,7 @@ Flutter, Serverpod, Axum, Tokio
 PyTorch, LlamaIndex, Foundation Models (Gemini, Gemma, Llama, GPT5, Opus, Nova, Olmo, Moshi, Stable Diffusions, Flux, Smolagents)
 
 **Data:**
-PostgreSQL, SurrealDB, TigerBeetle      
+PostgreSQL, SurrealDB, TigerBeetle, Aeron, Redpanda, Aerospike, Dragonfly      
 
 ➡ DM me at my Linkedin to reach me and to request access to my private repositories     
 https://www.linkedin.com/in/izatulreduan/   
@@ -38,8 +38,11 @@ https://www.linkedin.com/in/izatulreduan/
 *1. Rust based Quant App:*    
 **Tech:** Flutter, Serverpod, Axum, Tokio, PostgreSQL, SurrealDB, TigetBeetle, AI      
 
-*2. Slack Clone:*    
-*3. Traveldesk:*   
+*2. Rust based NFT Exhange:*    
+**Tech:** Axum, Tokio, Aeron, Redpanda, Aerospike, Dragonfly, AI      
+
+*3. Slack Clone:*    
+*4. Traveldesk:*   
 **Tech:** Spring Framework, Vaadin, Flutter, Serverpod, PostgreSQL, RabbitMQ, Apache Kafka     
 
 ---
