@@ -36,8 +36,6 @@ https://www.linkedin.com/in/izatulreduan/
 **Repository:** https://github.com/r1do1/summ3r      
 **Projects:**   
 *1. Rust based Quant App:*    
-**Tech:** Flutter, Serverpod, Axum, Tokio, PostgreSQL, SurrealDB, TigetBeetle, AI      
-
 *2. Rust based NFT Exhange:*    
 **Tech:** Axum, Tokio, Aeron, Redpanda, Aerospike, Dragonfly, AI      
 
