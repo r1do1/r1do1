@@ -36,7 +36,7 @@ https://www.linkedin.com/in/izatulreduan/
 **Projects:**   
 *1. Rust based Quant App:*    
 *2. Rust based NFT Exhange:*    
-**Tech:** Axum, Tokio, Aeron, Redpanda, Aerospike, Dragonfly, AI      
+**Tech:** Axum, Tokio, Ratatui, Aeron, Redpanda, Aerospike, Dragonfly, AI      
 
 *3. Slack Clone:*    
 *4. Traveldesk:*   
