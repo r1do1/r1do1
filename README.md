@@ -1,10 +1,12 @@
 <!--## Hi there 👋-->
 
-# 🚀 Applications & Ideas
+# 🚀 Applications Portfolio
 
-This repository contains example and production applications where I use all the skills collected during my 20+ years programming & managing software projects across global & multi functional teams.   
+Generative Web & Agents & Fintech & ideas, experiments & tests before production   
 
-I would like to highlight my last 3+ years doing AI driven application development, which motivated me to move from old to new, updated, better engineered production technology languages & frameworks   
+These are repositories of examples and production applications where I use all the skills collected during my 20+ years programming & managing software projects across global & multi functional teams.   
+
+For the past 3+ years I've been focusing on  AI driven application development, which motivated me to move from old to new, updated, better engineered production technology languages & frameworks   
 
 **Old tech skillsets:**   
 **Languages:**   
@@ -29,17 +31,22 @@ https://www.linkedin.com/in/izatulreduan/
 
 ---
 
-## 📱 summ3r
-**Description:** Generative Web & Agents & Fintech & ideas, experiments & tests that I did before using them in production in other repositories        
+## 📱Synkorb   
+**Access:** 🔒 Private   
+**Repository:** https://github.com/r1do1/synkorb      
+**Projects:**   
+*1. Quant App:*    
+*2. API Exhange:*    
+*3. API Provider:*    
+*4. API Client:*    
+**Tech:** Rust, Axum, Tokio, Solana, Aeron, Redpanda, Aerospike, Dragonfly, AI      
+
+## 📱Summ3r
 **Access:** 🔒 Private   
 **Repository:** https://github.com/r1do1/summ3r      
 **Projects:**   
-*1. Rust based Quant App:*    
-*2. Rust based NFT Exhange:*    
-**Tech:** Axum, Tokio, Ratatui, Aeron, Redpanda, Aerospike, Dragonfly, AI      
-
-*3. Slack Clone:*    
-*4. Traveldesk:*   
+*5. Slack Clone:*    
+*6. Traveldesk:*   
 **Tech:** Spring Framework, Vaadin, Flutter, Serverpod, PostgreSQL, RabbitMQ, Apache Kafka     
 
 ---
