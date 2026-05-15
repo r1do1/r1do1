@@ -24,7 +24,7 @@ Flutter, Serverpod, Axum, Tokio
 PyTorch, LlamaIndex, Foundation Models (Gemini, Gemma, Llama, GPT5, Opus, Nova, Olmo, Moshi, Stable Diffusions, Flux, Smolagents)
 
 **Data:**
-PostgreSQL, SurrealDB, TigerBeetle, Aeron, Redpanda, Aerospike, Dragonfly      
+PostgreSQL, SurrealDB, Aeron, Redpanda, Aerospike, Dragonfly      
 
 ➡ DM me at my Linkedin to reach me and to request access to my private repositories     
 https://www.linkedin.com/in/izatulreduan/   
@@ -46,7 +46,7 @@ https://www.linkedin.com/in/izatulreduan/
 **Repository:** https://github.com/r1do1/synkorbui      
 **Projects:**   
 *1. Synkorb UI: Merge all Synkorb prototype multiple UIs into ONE portal for production release*    
-**Tech:** Flutter, Serverpod, PostgreSQL, AI   
+**Tech:** Flutter, Serverpod, PostgreSQL, SurrealDB, AI   
 
 ---
 <!--
