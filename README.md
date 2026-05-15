@@ -41,13 +41,12 @@ https://www.linkedin.com/in/izatulreduan/
 *4. API Client:*    
 **Tech:** Rust, Axum, Tokio, Solana, Aeron, Redpanda, Aerospike, Dragonfly, AI      
 
-## 📱Summ3r
+## 📱Synkorb UI   
 **Access:** 🔒 Private   
-**Repository:** https://github.com/r1do1/summ3r      
+**Repository:** https://github.com/r1do1/synkorbui      
 **Projects:**   
-*5. Slack Clone:*    
-*6. Traveldesk:*   
-**Tech:** Spring Framework, Vaadin, Flutter, Serverpod, PostgreSQL, RabbitMQ, Apache Kafka     
+*1. Synkorb UI: Merge all Synkorb prototype multiple UIs into ONE portal for production release*    
+**Tech:** Flutter, Serverpod, PostgreSQL, AI   
 
 ---
 <!--
