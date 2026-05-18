@@ -41,6 +41,13 @@ https://www.linkedin.com/in/izatulreduan/
 *4. API Client:*    
 **Tech:** Rust, Axum, Tokio, Solana, Aeron, Redpanda, Aerospike, Dragonfly, AI      
 
+## 📱Synkorb Core  
+**Access:** 🔒 Private   
+**Repository:** https://github.com/r1do1/synkorbcore      
+**Projects:**   
+*All the latest updates of Synkorb and for production release*   
+**Tech:** Rust, Axum, Tokio, Solana, Aeron, Redpanda, Aerospike, Dragonfly, AI      
+
 ## 📱Synkorb UI   
 **Access:** 🔒 Private   
 **Repository:** https://github.com/r1do1/synkorbui      
