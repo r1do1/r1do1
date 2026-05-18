@@ -45,7 +45,7 @@ https://www.linkedin.com/in/izatulreduan/
 **Access:** 🔒 Private   
 **Repository:** https://github.com/r1do1/synkorbcore      
 **Projects:**   
-*All the latest updates of Synkorb and for production release*   
+*All the latest updates of Synkorb for production release*   
 **Tech:** Rust, Axum, Tokio, Solana, Aeron, Redpanda, Aerospike, Dragonfly, AI      
 
 ## 📱Synkorb UI   
