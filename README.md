@@ -53,7 +53,7 @@ https://www.linkedin.com/in/izatulreduan/
 *5. Compliance*   
 *6. Risk Management*   
 *7. Multi-Agencies*   
-*More later...*
+*More later...*   
 **Tech:** Rust, Axum, Tokio, Solana, Aeron, Redpanda, Aerospike, Dragonfly, AI      
 
 ## 📱Synkorb UI   
