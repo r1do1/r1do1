@@ -26,7 +26,7 @@ PyTorch, LlamaIndex, Foundation Models (Gemini, Gemma, Llama, GPT5, Opus, Nova, 
 **Data:**
 PostgreSQL, SurrealDB, Aeron, Redpanda, Aerospike, Dragonfly      
 
-➡ DM me at my Linkedin to reach me and to request access to my private repositories     
+➡ DM me at Linkedin to reach me and to request access to my private repositories     
 https://www.linkedin.com/in/izatulreduan/   
 
 ---
@@ -39,21 +39,6 @@ https://www.linkedin.com/in/izatulreduan/
 *2. API Exhange:*    
 *3. API Provider:*    
 *4. API Client:*    
-**Tech:** Rust, Axum, Tokio, Solana, Aeron, Redpanda, Aerospike, Dragonfly, AI      
-
-## 📱Synkorb Core  
-**Access:** 🔒 Private   
-**Repository:** https://github.com/r1do1/synkorbcore      
-**Projects:**   
-*All the latest updates of Synkorb for production release*  
-*1. Telemetry*  
-*2. Identity/Security*  
-*3. Solana Pay Settlement*   
-*4. Arc Pay Settlement*   
-*5. Compliance*   
-*6. Risk Management*   
-*7. Multi-Agencies*   
-*More later...*   
 **Tech:** Rust, Axum, Tokio, Solana, Aeron, Redpanda, Aerospike, Dragonfly, AI      
 
 ## 📱Synkorb UI   
