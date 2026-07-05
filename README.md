@@ -2,11 +2,11 @@
 
 # 🚀 Applications Portfolio
 
-Generative Web & Agents & Fintech & ideas, experiments & tests before production   
+Generative Web, Agents, Fintech, Ideas & Experiments before production   
 
-These are repositories of examples and production applications where I use all the skills collected during my 20+ years programming & managing software projects across global & multi functional teams.   
+These are repositories of samples production applications to showcase skills I collected during my 20+ years programming & managing software projects across global & multi functional teams.   
 
-For the past 3+ years I've been focusing on  AI driven application development, which motivated me to move from old to new, updated, better engineered production technology languages & frameworks   
+For the past 3+ years I've been focusing on AI driven application development, which motivated me to move from old to new, updated, better engineered production technology languages & frameworks   
 
 **Old tech skillsets:**   
 **Languages:**   
@@ -29,7 +29,7 @@ PostgreSQL, SurrealDB, Aeron, Redpanda, Aerospike, Dragonfly
 **Cloud:**
 AWS, GCP   
 
-To request access to my private repositories
+To request access to my private repositories   
 ➡ DM me at Linkedin    
 https://www.linkedin.com/in/izatulreduan/   
 ➡ Email me at    
@@ -41,7 +41,7 @@ izzyriddy@gmail.com
 **Access:** 🔒 Private   
 **Repository:** https://github.com/r1do1/userp0d      
 **Description:**   
-*Agentic AI on Mobile   
+*Agentic AI on Mobile*   
 **Tech:** Flutter, Serverpod, Axum, Tokio, PostgreSQL, SurrealDB, AI   
 **Cloud:** AWS, GCP   
 
@@ -49,7 +49,7 @@ izzyriddy@gmail.com
 **Access:** 🔒 Private   
 **Repository:** https://github.com/r1do1/governp0d      
 **Description:**   
-*Agentic AI on Spring   
+*Agentic AI on Spring*   
 **Tech:** Spring Boot, Spring AI, Vaadin, PostgreSQL, AI   
 **Cloud:** AWS, GCP   
 
@@ -62,13 +62,6 @@ izzyriddy@gmail.com
 *3. API Provider:*    
 *4. API Client:*    
 **Tech:** Rust, Axum, Tokio, Solana, Aeron, Redpanda, Aerospike, Dragonfly, AI      
-
-## 📱Synkorb UI   
-**Access:** 🔒 Private   
-**Repository:** https://github.com/r1do1/synkorbui      
-**Projects:**   
-*1. Synkorb UI: Merge all Synkorb prototype multiple UIs into ONE portal for production release*    
-**Tech:** Flutter, Serverpod, PostgreSQL, SurrealDB, AI   
 
 ---
 <!--
