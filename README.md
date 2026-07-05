@@ -26,24 +26,32 @@ PyTorch, LlamaIndex, Foundation Models (Gemini, Gemma, Llama, GPT5, Opus, Nova, 
 **Data:**
 PostgreSQL, SurrealDB, Aeron, Redpanda, Aerospike, Dragonfly      
 
-➡ DM me at Linkedin to reach me and to request access to my private repositories     
+**Cloud:**
+AWS, GCP   
+
+To request access to my private repositories
+➡ DM me at Linkedin    
 https://www.linkedin.com/in/izatulreduan/   
+➡ Email me at    
+izzyriddy@gmail.com
 
 ---
 
 ## 📱Userp0d   
 **Access:** 🔒 Private   
 **Repository:** https://github.com/r1do1/userp0d      
-**Projects:**   
-*1. Synkorb UI: Merge all Synkorb prototype multiple UIs into ONE portal for production release*    
-**Tech:** Flutter, Serverpod, PostgreSQL, SurrealDB, AI   
+**Description:**   
+*Agentic AI on Mobile   
+**Tech:** Flutter, Serverpod, Axum, Tokio, PostgreSQL, SurrealDB, AI   
+**Cloud:** AWS, GCP   
 
 ## 📱Governp0d   
 **Access:** 🔒 Private   
 **Repository:** https://github.com/r1do1/governp0d      
-**Projects:**   
-*1. Synkorb UI: Merge all Synkorb prototype multiple UIs into ONE portal for production release*    
-**Tech:** Flutter, Serverpod, PostgreSQL, SurrealDB, AI   
+**Description:**   
+*Agentic AI on Spring   
+**Tech:** Spring Boot, Spring AI, Vaadin, PostgreSQL, AI   
+**Cloud:** AWS, GCP   
 
 ## 📱Synkorb   
 **Access:** 🔒 Private   
