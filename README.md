@@ -12,7 +12,7 @@ For the past 3+ years I've been focusing on AI driven application development
 **Languages:**   
 C & C++, Java, Python, HTML, CSS, JavaScript   
 **Frameworks:**   
-Spring Framework, Vaadin, Quarkus, ReactJS      
+Spring Framework, Spring AI, Vaadin, Quarkus, ReactJS      
 
 **New tech skillsets:**   
 **Languages:**   
@@ -21,7 +21,7 @@ C & C++ updates, Dart, Rust
 Flutter, Serverpod, Axum, Tokio
 
 **AI:**
-PyTorch, Foundation Models (GPT, Wan, Kimi)
+PyTorch, Foundation Models (GPT, Wan, Inkling, Kimi)
 
 **Data:**
 PostgreSQL, SurrealDB, Aeron, Redpanda, Aerospike, Dragonfly      
@@ -37,22 +37,22 @@ Email me at
 ➡ izzyriddy@gmail.com
 
 ---
-
-## 📱Userp0d   
-**Access:** 🔒 Private   
-**Repository:** https://github.com/r1do1/userp0d      
+## 📱O6or (OpenAI Build Week 2026 Participant)   
+**Access:** 🔒 Private
+**URL:** https://app.o6or.com/app
+**Repository:** https://github.com/r1do1/illuvenus      
 **Description:**   
-*Agentic AI on Mobile*   
-**Tech:** Flutter, Serverpod, Axum, Tokio, PostgreSQL, SurrealDB, AI   
-**Cloud:** AWS, GCP   
+*Nanolearning and Augmented Remembering*   
+**Tech:** OpenAI Codex, Flutter, Serverpod, PostgreSQL, SurrealDB, GPT, Wan, Inkling, Kimi    
+**Cloud:** AWS, AWS Lambda MicroVM   
 
-## 📱Governp0d   
+## 📱Usrp0d   
 **Access:** 🔒 Private   
-**Repository:** https://github.com/r1do1/governp0d      
+**Repository:** https://github.com/r1do1/usrp0d      
 **Description:**   
-*Agentic AI on Spring*   
-**Tech:** Spring Boot, Spring AI, Vaadin, PostgreSQL, AI   
-**Cloud:** AWS, GCP   
+*Agentic AI on Mobile - Your mobile agent launcher*   
+**Tech:** OpenAI Codex, Flutter, Serverpod, Axum, Tokio, PostgreSQL, SurrealDB, AI   
+**Cloud:** AWS, AWS Lambda MicroVM   
 
 ## 📱Synkorb   
 **Access:** 🔒 Private   
