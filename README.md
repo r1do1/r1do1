@@ -4,9 +4,9 @@
 
 Generative Web, Agents, Fintech, Ideas & Experiments before production   
 
-These are repositories of samples production applications to showcase skills I collected during my 20+ years programming & managing software projects across global & multi functional teams.   
+These are repositories of samples production applications to showcase skills I've collected during my 20+ years programming & managing software projects across global & multi functional teams.   
 
-For the past 3+ years I've been focusing on AI driven application development, which motivated me to move from old to new, updated, better engineered production technology languages & frameworks   
+For the past 3+ years I've been focusing on AI driven application development   
 
 **Old tech skillsets:**   
 **Languages:**   
@@ -21,7 +21,7 @@ C & C++ updates, Dart, Rust
 Flutter, Serverpod, Axum, Tokio
 
 **AI:**
-PyTorch, LlamaIndex, Foundation Models (Gemini, Gemma, Llama, GPT5, Opus, Nova, Olmo, Moshi, Stable Diffusions, Flux, Smolagents)
+PyTorch, Foundation Models (GPT, Wan, Kimi)
 
 **Data:**
 PostgreSQL, SurrealDB, Aeron, Redpanda, Aerospike, Dragonfly      
@@ -30,10 +30,11 @@ PostgreSQL, SurrealDB, Aeron, Redpanda, Aerospike, Dragonfly
 AWS, GCP   
 
 To request access to my private repositories   
-➡ DM me at Linkedin    
-https://www.linkedin.com/in/izatulreduan/   
-➡ Email me at    
-izzyriddy@gmail.com
+DM me at Linkedin    
+➡ https://www.linkedin.com/in/izatulreduan/   
+or   
+Email me at    
+➡ izzyriddy@gmail.com
 
 ---
 
