@@ -38,7 +38,7 @@ Email me at
 
 ---
 ## 📱O6or (OpenAI Build Week 2026 Participant)   
-**Access:** 🔒 Private
+**Access:** 🔒 Private   
 **URL:** https://app.o6or.com/app   
 **Repository:** https://github.com/r1do1/illuvenus      
 **Description:**   
